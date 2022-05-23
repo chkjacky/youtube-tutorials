@@ -3,16 +3,18 @@
 Explore different video tutorials (Marketing, Business, Programming, etc) to skill up ourselves. It's great to have all these channels, at least our lives won't be that difficult! 😜
 
 # 🔗 Table of Contents
-+ [Digital Marketing](#digitalmarketing)
-    - [Online Marketing / Writing](#onlinemarketingwriting)
++ [Digital Marketing](#-digital-marketing)
+    - [Online Marketing / Writing](#online-marketing--writing)
     - [NFT](#nft)
-+ [Programming - Blockchain Development](#programmingblockchaindevelopment)
-+ [Programming - Web Development](#programmingwebdevelopment)
++ [Programming - Blockchain Development](#%EF%B8%8F-programming---blockchain-development)
+    - [Solidity](#solidity)
++ [Programming - Web Development](#-programming---web-development)
     - [Mix (Frontend + Backend)](#mix)
     - [Backend](#backend)
         * [PHP](#php)
         * [Ruby](#ruby)
     - [Frontend](#frontend)
+        * [React](#react)
 
 
 ## 📈 Digital Marketing
