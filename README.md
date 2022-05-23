@@ -2,6 +2,8 @@
 
 Explore different video tutorials (Marketing, Business, Programming, etc) to skill up ourselves. It's great to have all these channels, at least our lives won't be that difficult! 😜
 
+Let's add any channels to this list. 😉
+
 # 🔗 Table of Contents
 + [Digital Marketing](#-digital-marketing)
     - [Online Marketing / Writing](#online-marketing--writing)
@@ -46,7 +48,7 @@ YouTube Channel: [Aprilynne Alter](https://www.youtube.com/c/AprilynneAlter "Apr
 
 **2. Kelly Cheung (Kelly Cheung)**
 
-*Note: She focuses on everything on NFT and gamings.*
+*Note: She focuses everything on NFT and gamings.*
 
 Bio: ALL ABOUT GAMING | NFT | CRYPTO
 
